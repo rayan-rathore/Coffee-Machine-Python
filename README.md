@@ -5,6 +5,7 @@ A console-based coffee machine simulation built using Python as part of my Pytho
 This project simulates how a real coffee machine works by checking resources, handling payments, and serving different coffee drinks.
 
 📌 Features
+---
 
 📋 Menu-driven coffee selection
 
@@ -19,6 +20,7 @@ This project simulates how a real coffee machine works by checking resources, ha
 🔁 Continuous operation until turned off
 
 🛠 Technologies Used
+---
 
 Python 3
 
@@ -30,9 +32,8 @@ Loops & conditionals
 
 Basic input/output handling
 
----
-
 🧠 How It Works (Simple Explanation)
+---
 
 The machine displays a menu of available coffees.
 
@@ -57,8 +58,9 @@ Type a coffee name to order (e.g. latte)
 Type report to view machine resources
 
 Type off to turn off the machine
----
+
 🎯 Learning Outcome
+---
 
 This project helped me practice:
 
