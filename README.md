@@ -52,6 +52,7 @@ Money balance is updated
 Coffee is served ☕
 
 📊 Commands
+---
 
 Type a coffee name to order (e.g. latte)
 
