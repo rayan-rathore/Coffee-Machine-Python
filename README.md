@@ -1,7 +1,6 @@
 ☕ Indian Coffee Machine (Python)
 
-A console-based coffee machine simulation built using Python as part of my
-100 Days of Code – Python learning journey.
+A console-based coffee machine simulation built using Python as part of my Python learning journey.
 
 This project simulates how a real coffee machine works by checking resources, handling payments, and serving different coffee drinks.
 
@@ -15,7 +14,7 @@ This project simulates how a real coffee machine works by checking resources, ha
 
 💰 Coin-based payment system (₹)
 
-📊 Resource & profit report
+📊 Resource & money balance report
 
 🔁 Continuous operation until turned off
 
@@ -31,22 +30,7 @@ Loops & conditionals
 
 Basic input/output handling
 
-▶️ How to Run the Project
-
-Clone this repository:
-
-git clone <your-repo-link>
-
-
-Make sure main_data.py contains:
-
-MENU (coffee details & ingredients)
-
-resources (available ingredients)
-
-Run the program:
-
-python main.py
+---
 
 🧠 How It Works (Simple Explanation)
 
@@ -62,7 +46,7 @@ If payment is successful:
 
 Ingredients are deducted
 
-Profit is updated
+Money balance is updated
 
 Coffee is served ☕
 
@@ -73,7 +57,7 @@ Type a coffee name to order (e.g. latte)
 Type report to view machine resources
 
 Type off to turn off the machine
-
+---
 🎯 Learning Outcome
 
 This project helped me practice:
